@@ -6,18 +6,18 @@ A set of festive functions to liven up your R session.
 
 ## Usage
 
-`ch-R-istmas::jingle_bells()` to play a festive tune. 
+`ch.R.istmas::jingle_bells()` to play a festive tune. 
 
-`ch-R-istmas::plot_tree()` to plot a Christmas tree in your Plots pane. 
+`ch.R.istmas::plot_tree()` to plot a Christmas tree in your Plots pane. 
 
-`ch-R-istmas::ho_ho_ho()` to do both of the above! 
+`ch.R.istmas::ho_ho_ho()` to do both of the above! 
 
 ## Installation
 
 To install this package, use:
 
 ```
-devtools::install_github("BenCuff/ch-R-istmas")
+devtools::install_github("BenCuff/ch.R.istmas")
 ```
 
 
